@@ -1,0 +1,14 @@
+Site Riding cities :
+
+- Copie de la section Mission de l'asso pour créez la nouvelle section Les membres fondateurs.
+- Supression d'une balise articles pour avoir 3 balise articles et non 4
+- Ajout de la class (class="whiteContentSection sectionLinearGradientBackground")
+Sur ma nouvelle section pour récuperer le style.
+- Problème de graisse dans le fichier CSS par rapport à la planche figma. Graisse de la police h3 en 800, or la graisse de la police figma et de 600. ( Je ne doit pas toucher au CSS )
+- Ajout des balise <img> et du alt pour les photos des membres fondateur au dessus de leurs balise <h3> et <p> respective
+- Ajout de la class (class="textCenter") à mes balise articles des membres fondateurs pour center et aligner la balise h3 et p. ( problème de graisse des polices du css / figma )
+- Ajout de la class (class="sectionLightGreyBackground">) a ma section Découvrez nos cours.
+- Ajout d'un balise <h2> pour le titre de ma section.
+- Copie de la class <a button > pour ajouter un deuxième bouton a ma section.
+- modification de la class <div> directionRow en -> directionColomn pour passer les boutons l'un en dessous de l'autre et non pas cote à cote.
+- Ajout des class correspondante a chacun des deux boutons pour leurs appliquer le style qui correspond a la plaquette figma.
