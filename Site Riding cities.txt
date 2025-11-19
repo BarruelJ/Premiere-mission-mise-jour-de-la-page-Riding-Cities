@@ -1,14 +1,45 @@
-Site Riding cities :
+Site Riding Cities
 
-- Copie de la section Mission de l'asso pour créez la nouvelle section Les membres fondateurs.
-- Supression d'une balise articles pour avoir 3 balise articles et non 4
-- Ajout de la class (class="whiteContentSection sectionLinearGradientBackground")
-Sur ma nouvelle section pour récuperer le style.
-- Problème de graisse dans le fichier CSS par rapport à la planche figma. Graisse de la police h3 en 800, or la graisse de la police figma et de 600. ( Je ne doit pas toucher au CSS )
-- Ajout des balise <img> et du alt pour les photos des membres fondateur au dessus de leurs balise <h3> et <p> respective
-- Ajout de la class (class="textCenter") à mes balise articles des membres fondateurs pour center et aligner la balise h3 et p. ( problème de graisse des polices du css / figma )
-- Ajout de la class (class="sectionLightGreyBackground">) a ma section Découvrez nos cours.
-- Ajout d'un balise <h2> pour le titre de ma section.
-- Copie de la class <a button > pour ajouter un deuxième bouton a ma section.
-- modification de la class <div> directionRow en -> directionColomn pour passer les boutons l'un en dessous de l'autre et non pas cote à cote.
-- Ajout des class correspondante a chacun des deux boutons pour leurs appliquer le style qui correspond a la plaquette figma.
+Création de la section "Les membres fondateurs" :
+
+Copier le contenu de la section "Mission" de l'association pour créer la nouvelle section "Les membres fondateurs".
+
+Réduction du nombre de balises <article> :
+
+Supprimer une balise <article> pour n'en garder que 3 au lieu de 4.
+
+Ajout d'une classe pour appliquer un style spécifique :
+
+Ajouter la classe class="whiteContentSection sectionLinearGradientBackground" à la nouvelle section pour récupérer le style de fond.
+
+Problème de graisse de police (h3) :
+
+Le fichier CSS applique une graisse de police de 800 sur les balises <h3>, mais la planche Figma spécifie une graisse de 600. (Note : tu ne dois pas toucher au fichier CSS).
+
+Ajout des images pour les membres fondateurs :
+
+Ajouter les balises <img> et l'attribut alt pour les photos des membres fondateurs, au-dessus de chaque balise <h3> et <p> respectives.
+
+Centrage des éléments (h3 et p) :
+
+Ajouter la classe class="textCenter" aux balises <article> des membres fondateurs pour centrer et aligner les balises <h3> et <p>. (Cela permet de résoudre le problème de la graisse de la police entre le CSS et Figma).
+
+Modification de la section "Découvrez nos cours" :
+
+Ajouter la classe class="sectionLightGreyBackground" à la section "Découvrez nos cours" pour changer l'arrière-plan en gris clair.
+
+Ajout d'un titre <h2> pour la section "Découvrez nos cours" :
+
+Ajouter une balise <h2> pour le titre de la section "Découvrez nos cours".
+
+Ajout d'un deuxième bouton dans la section "Découvrez nos cours" :
+
+Copier la classe <a button> pour ajouter un deuxième bouton à la section.
+
+Modification de la disposition des boutons :
+
+Modifier la classe <div class="directionRow"> en <div class="directionColumn"> pour aligner les boutons l'un en dessous de l'autre, et non côte à côte.
+
+Application des styles sur les boutons :
+
+Ajouter les classes correspondantes à chacun des deux boutons pour appliquer le style conforme à la planche Figma.
